@@ -1,7 +1,8 @@
 # xplore-website
 Xplore Club Website
-visit 
-# https://xplorexcse.web.app/
+
+visit
+https://xplorexcse.web.app/
 
 # Future Updates
 
