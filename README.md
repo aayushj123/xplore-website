@@ -1,4 +1,3 @@
-# xplore-website
 Xplore Club Website
 
 visit
