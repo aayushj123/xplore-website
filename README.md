@@ -1,7 +1,7 @@
 Xplore Club Website
 
 visit
-https://xplorexcse.web.app/ for test versions
+https://xplorev2.web.app/ for test versions
 https://xcse.xub.edu.in/xplore/ current running version
 
 # Future Updates
