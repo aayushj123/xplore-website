@@ -1,10 +1,11 @@
 Xplore Club Website
 
 visit
-https://xplorexcse.web.app/
+https://xplorexcse.web.app/ for test versions
+https://xcse.xub.edu.in/xplore/ current running version
 
 # Future Updates
 
-1.EVENTS PAge
+1.EVENTS Page
 
 2.PROJECTS Page
