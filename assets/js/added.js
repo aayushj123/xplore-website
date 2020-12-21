@@ -7,14 +7,7 @@ $('a[href^="#"]').click(function () {
   return false;
 });
 
-$(document).ready(function(){
-  $(window).scroll(function(){
-  	var scroll = $(window).scrollTop();
-	  if (scroll > 30) {
-	    $(".navbar").css("background" , "black");
-	  }
-	  else{
-		  $(".navbar").css("background" , "linear-gradient(rgb(0,30,21), rgb(14,87,89))");  	
-	  }
-  })
-})
+
+$('.navbar-nav>li>a').on('click', function(){
+  $('.navbar-collapse').collapse('hide');
+});
